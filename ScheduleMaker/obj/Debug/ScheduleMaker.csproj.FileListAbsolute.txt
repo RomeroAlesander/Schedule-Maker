@@ -1,0 +1,41 @@
+C:\Users\Alesander\AppData\Local\Temporary Projects\ScheduleMaker\bin\Debug\ScheduleMaker.exe.config
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker\ScheduleMaker\bin\Debug\ScheduleMaker.exe.config
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker\ScheduleMaker\bin\Debug\ScheduleMaker.exe
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker\ScheduleMaker\bin\Debug\ScheduleMaker.pdb
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.csprojResolveAssemblyReference.cache
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.Form1.resources
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.Properties.Resources.resources
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.csproj.GenerateResource.Cache
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.exe
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.pdb
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.Form2.resources
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - copia\ScheduleMaker\bin\Debug\ScheduleMaker.exe.config
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - copia\ScheduleMaker\obj\Debug\ScheduleMaker.exe
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - copia\ScheduleMaker\obj\Debug\ScheduleMaker.pdb
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - copia\ScheduleMaker\bin\Debug\ScheduleMaker.exe
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - copia\ScheduleMaker\bin\Debug\ScheduleMaker.pdb
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - copia\ScheduleMaker\obj\Debug\ScheduleMaker.csprojResolveAssemblyReference.cache
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - copia\ScheduleMaker\obj\Debug\ScheduleMaker.Form1.resources
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - copia\ScheduleMaker\obj\Debug\ScheduleMaker.Form2.resources
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - copia\ScheduleMaker\obj\Debug\ScheduleMaker.Properties.Resources.resources
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - copia\ScheduleMaker\obj\Debug\ScheduleMaker.csproj.GenerateResource.Cache
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\bin\Debug\ScheduleMaker.exe.config
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\ScheduleMaker.exe
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\ScheduleMaker.pdb
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\bin\Debug\ScheduleMaker.exe
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\bin\Debug\ScheduleMaker.pdb
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\ScheduleMaker.csprojResolveAssemblyReference.cache
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\Interop.LCC11.dll
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\Interop.Microsoft.Office.Interop.OutlookViewCtl.dll
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\Interop.MSORUNLib.dll
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\Interop.MSOSOAPLib30.dll
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\Interop.OSE.dll
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\Interop.otkloadr.dll
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\Interop.VSTOEE100.dll
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\Interop.WinInetConnectorLib.dll
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\ScheduleMaker.csproj.ResolveComReference.cache
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\ScheduleMaker.Form1.resources
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\ScheduleMaker.Form2.resources
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\ScheduleMaker.Properties.Resources.resources
+C:\Users\Alesander\Desktop\SCHEDULE MAKER\ScheduleMaker - V1.1\ScheduleMaker\obj\Debug\ScheduleMaker.csproj.GenerateResource.Cache
